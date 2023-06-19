@@ -10,3 +10,4 @@ bin/
 ## ignorer le fichier test.txt dans la racine du projet
 /test.txt
 
+test
